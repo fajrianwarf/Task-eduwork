@@ -1,0 +1,13 @@
+Player 101 (Level 3)
+
+Stats :
+- Strength: 8
+- Agility : 8
+- Intelegent : 11
+
+Status : hacking the system
+
+Skill : 
+- fast learning
+- programming
+- manufacturing
