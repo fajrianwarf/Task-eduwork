@@ -1,6 +1,6 @@
 Task eduwork week-02
 
-- html : (not yet)
+- html : done
 - css : (not yet)
 - css flexbox : (not yet)
 - bootstrap : (not yet)
