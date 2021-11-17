@@ -1,3 +1,25 @@
+/* refactoring with boostsrap */
+.display-1 , h3 {
+    font-family: 'Miniver', cursive;
+}
+
+h1 {
+    text-shadow: 2px 2px #0388fc;
+    padding: 15px;
+}
+
+#bio {
+    text-align: justify;
+    text-indent: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+
+
+/* for pure CSS 
+
 * {
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
@@ -83,4 +105,4 @@ hr {
 
 .contact-me form button {
     margin-bottom: 25px;
-}
+} */
